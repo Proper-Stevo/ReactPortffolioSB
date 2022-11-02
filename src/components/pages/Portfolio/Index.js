@@ -23,10 +23,10 @@ export default function Portfolio() {
           <Carousel.Caption className='caption'>
             <h3>Orbital Odyssey</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            <a href="https://github.com/Proper-Stevo/ThePonderosaPines">
+            <a href="https://github.com/Proper-Stevo/SpaceInvaders">
               <button >GitHub</button>
             </a>
-            < a href="https://proper-stevo.github.io/ThePonderosaPines/">
+            < a href="https://stormy-sands-64982.herokuapp.com/">
               <button >Website</button>
             </a>
           </Carousel.Caption>
