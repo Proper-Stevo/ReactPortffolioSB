@@ -23,20 +23,19 @@ export default function Home() {
             </Card>
             <Card className='cardTwo'>
               <Card.Body>
-                <Card.Title>Card title</Card.Title>
+                <Card.Title>National Park Finder</Card.Title>
                 <Card.Text>
-                  This card has supporting text below as a natural lead-in to
-                  additional content.{' '}
+                  A simple way to see your favorite National Park!
+                  <img src='./img/nationalPark.jpeg' alt='National Park Badge' height={"300px"}></img>
                 </Card.Text>
               </Card.Body>
             </Card>
             <Card className='cardThree'>
               <Card.Body>
-                <Card.Title>Card title</Card.Title>
+                <Card.Title>Resume Creator</Card.Title>
                 <Card.Text>
-                  This is a wider card with supporting text below as a natural lead-in
-                  to additional content. This card has even longer content than the
-                  first to show that equal height action.
+                  A App friendly way to create your resume! Easy fun and fast! 
+                  <img src='./img/resume.jpg' alt='resume badge' height={"300px"}></img>
                 </Card.Text>
               </Card.Body>
             </Card>
