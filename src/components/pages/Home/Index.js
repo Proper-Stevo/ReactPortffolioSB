@@ -9,7 +9,8 @@ export default function Home() {
       <div className='nameID'>I am Steven Barrios</div>
       <p>
         I am a Full Stack Developer. I like dabbing in various frontend development and backend devlopment projects.
-        I love to learn about new technologies, learn about technical advances, nature and dogs.
+        I love to learn about new technologies, learn about technical advances, nature and dogs. These example cards below
+        are just some small projects ive done, more can be found in the portfolio section!
       </p>
           <CardGroup className='cardsTotal'>
             <Card className='cardOne'>
