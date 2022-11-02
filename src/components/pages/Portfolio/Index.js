@@ -91,6 +91,24 @@ export default function Portfolio() {
           <button href='https://proper-stevo.github.io/calculator/'>Website</button>
         </Carousel.Caption>
       </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block mx-auto w-50"
+          src="./img/forcast.png"
+          alt="Third slide"
+          height={"400px"}
+          width={'400px'}
+        />
+        <Carousel.Caption className='caption'>
+          <h3>Weather Guide</h3>
+          <p>
+            A Weather Guide that lets you select a city as an input and show's you the current weather and the next
+            5 day forcast as well! 
+          </p>
+          <button href='https://github.com/Proper-Stevo/WeatherGuide'>GitHub</button>
+          <button href='https://proper-stevo.github.io/WeatherGuide/'>Website</button>
+        </Carousel.Caption>
+      </Carousel.Item>
     </Carousel>
     </div>
   );
