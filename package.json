@@ -1,6 +1,6 @@
 {
-  "homepage": "http://www.Proper-Stevo.github.io/reactPorfolio",
-  "name": "reactPorfolio",
+  "homepage": "http://www.Proper-Stevo.github.io/ReactPortffolioSB",
+  "name": "ReactPortffolioSB",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,7 +19,7 @@
   },
   "scripts": {
       "predeploy": "npm run build",
-      "deploy": "gh-pages -b main -d build",
+      "deploy": "gh-pages -d build",
       "start": "react-scripts start",
       "build": "react-scripts build",
       "test": "react-scripts test",
