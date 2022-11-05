@@ -5,10 +5,10 @@
 This porfolio  was created using React.js and it showcases my abilities as a developer. Please view the programs available in my project section and view my resume as well. I hope you find your next developer here! Linked and Resume are a few clicks away!
 
 ## HomeScreen 
-[!alttext](./public/img/Porfolio%3AHome.png)
+[!altext](./public/img/Porfolio%3AHome.png)
 
 ## Portfolio Sneak Peak
-[!alttext](./public/img/Portfolio.png)
+[!altext](./public/img/Portfolio.png)
 
 ## License
 
